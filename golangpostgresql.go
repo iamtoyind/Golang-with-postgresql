@@ -12,7 +12,7 @@ const (
 	hostname = "127.0.0.1"
 	db       = "apache_age"
 	username = "postgres"
-	pwd      = "Veronica1"
+	pwd      = "Admin"
 	portID   = 5432
 )
 
